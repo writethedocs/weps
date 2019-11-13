@@ -138,7 +138,7 @@ During the community review period, the WEP goes through one or more iterations 
 
 All discussion on the WEP must happen on the PR in the form of comments in order to be considered as official feedback on the WEP. Of course external conversations can happen on other platforms, but the official record for a WEP discussion is only on the PR itself. If discussion happens on another platform, we recommend copying the most important points or the results of those discussions into the WEP comments.
 
-You must have a GitHub account to post comments to a PR. If you need help getting started with GitHub, email support@writethedocs and the WTD team will help you set up your account and get familiar with GitHub basics. 
+You must have a GitHub account to post comments to a PR. If you need help getting started with GitHub, email support@writethedocs.org and the WTD team will help you set up your account and get familiar with GitHub basics. 
 
 Final review and resolution
 ...........................
