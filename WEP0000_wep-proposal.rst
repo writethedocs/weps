@@ -87,7 +87,7 @@ At a very high level, the WEP submission process includes the following stages:
 
 #. `Pre-proposal`_ — Someone has an idea and they start collecting early input and feedback to see if it is within the scope of a WEP. This can be done informally, publicly or privately.
 
-#. `Draft submission and pre-review`_ — The WEP author writes a rough draft of the WEP and submits it in a pull request (PR) to the WEPs repository. The draft is pre-reviewed by an editor for style, formatting, and eligibility for the WEP process. If the WEP is pre-approved, it is accepted for discussion and the review period begins.
+#. `Draft submission and pre-review`_ — The WEP author writes a rough draft of the WEP and submits it in a pull request (PR) to the WEPs repository. The draft is pre-reviewed by an editor for style, formatting, and eligibility for the WEP process. If the WEP is pre-approved, it is accepted for discussion and the 30-day review period begins.
 
 #. `Community review, discussion, and updates`_ — During the review period, the WEP draft is discussed, improved, and updated based on incoming feedback from the community. Feedback is welcome from the whole community, as long as it arrives within the review period. 
 
