@@ -200,7 +200,7 @@ The field list usually includes the following fields:
 - ``:Author:`` - Full names of one or more authors of the WEP. Do not write email addresses or social media nicknames in this field. If the WEP is co-authored by multiple people, use a bulleted list similar to the header of this WEP.
 - ``:Status:`` - Current status of the WEP. All WEPs begin with a ``Draft`` status, and the field changes with every stage in the WEP lifecycle. For example, ``Accepted``, ``Rejected``, ``Withdrawn``, ``Final``, or ``Superseded``.
 - ``:Replaces:`` - Optional. If this WEP was created instead of a previous WEP that was rejected or withdrawn, list the number and title of the previous WEP.
-- ``:Superceded-By:`` - Optional. If this WEP  rejected or withdrawn and a newer WEP was submitted instead with updated content, list the number and title of the WEP that supercedes this WEP.
+- ``:Superceded-By:`` - Optional. If this WEP is rejected or withdrawn and a newer WEP was submitted instead with updated content, list the number and title of the WEP that supercedes this WEP.
 
 Structure
 .........
