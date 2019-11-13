@@ -183,7 +183,6 @@ We use `reStructuredText <http://docutils.sourceforge.net/rst.html>`_ markup lan
 
 In most cases, you can start by copying the `WEP template <../wep-template.rst>`_ and adding content as needed. The following sections describe the various sections of the template:
 
-.. AI - Make the template!
 
 File name
 .........
