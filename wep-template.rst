@@ -27,7 +27,7 @@ WEP[####] - [Short but descriptive title]
 Abstract
 ========
 
-[Short summary of the WEP purpose. 1-2 paragraphs maximum. This is the TL;DR.]
+[Short summary of the WEP purpose. 100 words maximum. This is the TL;DR.]
 
 Motivation
 ==========
