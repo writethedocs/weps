@@ -32,7 +32,7 @@ Abstract
 Motivation
 ==========
 
-[Background information explaining why the existing processes or solutions need to change. 2-3 paragraphs maximum.]
+[Background information explaining why the existing processes or solutions need to change. 500 words maximum.]
 
 Proposal
 ========
