@@ -76,14 +76,14 @@ Anyone from the community can submit a WEP! Here's how it works, and what to exp
 The WEP process and system are administered by the following teams:
 
 Core Operations team
-  There are several reference in this WEP to the **core operations (CoreOps) team**. This team is currently known as the **core team** and the team description can be found on the `Core team page <https://www.writethedocs.org/team/#core-team>`_. The updated name is intended to reflect the purpose of the team more accurately in the context of its duties for the community. 
+  There are several references in this WEP to the **core operations (CoreOps) team**. This team is currently known as the **core team** and the team description can be found on the `Core team page <https://www.writethedocs.org/team/#core-team>`_. The updated name is intended to reflect the purpose of the team more accurately in the context of its duties for the community. 
 
 WEP team
   The **WEP team** is a new team that reviews WEP proposals for clarity and completeness. For the purpose of this WEP the team is initially composed of the Core Operations team, but in the the future will be open for other community members to join. 
   
 Note that the process to join and leave teams is out of scope of this WEP and will be handled in a future WEP.
 
-At a very high level, the WEP submission process includes the following stages:
+At a high level, the WEP submission process includes the following stages:
 
 #. `Pre-proposal`_ — Someone has an idea and they start collecting early input and feedback to see if it is within the scope of a WEP. This can be done informally, publicly or privately.
 
@@ -117,24 +117,23 @@ A draft WEP must be submitted in a GitHub pull request to the `writethedocs/weps
 
 The WEP draft must follow these guidelines:
 
-- WEP is actionable and implementable. The proposed change must be specific and the resulting action clear.
-- WEP fits the scope of the WEP process, as described in **Scope of WEPs**. WEPs that are out of scope of the process will be rejected by the reviewer.
+- The WEP's proposed change must be specific and the resulting action clear.
+- The WEP fits the scope of the WEP process, as described in **Scope of WEPs**. WEPs that are out of scope of the process will be rejected by the WEP team.
 - Content format must follow the WEP style as described in the **WEP format and style** section. This includes language, grammar, structure, and markup. The PR might be blocked until proper formatting rules are applied.
 - The WEP content is complete. If you want to submit a Work in Progress (WIP) draft before it is ready for pre-review, you can mark the PR as ``WIP`` and the review team will wait until the draft is ready.
 - **Allow edits from maintainers** option is selected. This helps the reviewer merge your WEP draft if it is accepted.
 - The PR is tagged with a **draft** flag, to indicate that it is in a draft state and is ready for pre-review. 
 
-
 After the pull request for the WEP draft is submitted, a WEP team member reviews the pull request to make sure it adheres to the guidelines. If the WEP is clearly not ready, the reviewer might reject the pull request and ask the author to submit a new WEP after the problems have been fixed.
 
-The reviewer does not vote on the proposed change itself, and only reviews the WEP for scope compliance, format, and completeness. The pre-review period is usually one week, but might change based on the scope of the pre-review feedback and the availability of the author to implement changes.
+The WEP team reviewer does not vote on the proposed change itself, and only reviews the WEP for scope compliance, format, and completeness. The pre-review period is usually one week, but might change based on the scope of the pre-review feedback and the availability of the author to implement changes.
 
 After the WEP is ready for the community review, the reviewer assigns the **ready-for-discussion** label to the PR. The CoreOps team is then responsible for distributing announcements of each WEP to the relevant community segment. For example, a WEP about meetups will be shared with the Meetup team for distribution between the meetup organizers. For some WEPs, community-wide announcements will be made on Slack or to the mailing list. 
   
 Community review, discussion, and updates
 .........................................
 
-The standard community review period for a WEP is **30 days**. The WEP is reviewed by a process called **lazy consensus**. This means that community members either provide feedback, approve the WEP explicitly, or ignore the WEP. 
+The standard community review period for a WEP is **30 days**. The WEP is decided on by a process called **lazy consensus**. This means that community members either provide feedback, approve the WEP explicitly, or ignore the WEP. 
 
 If the review period ends without a clear consensus, but further discussion is still needed, the review period might be extended by the WEP team. The review period is never shorter than one month, but other WEPs can be submitted in the meantime, and multiple WEPs might be undergoing a community review simultaneously. 
 
