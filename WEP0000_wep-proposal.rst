@@ -100,7 +100,7 @@ The following sections describe each stage in more detail.
 Pre-proposal
 ............
 
-The WEP process begins with a new idea for Write the Docs. It is highly recommended that a single WEP contain a single key proposal or new idea. 
+The WEP process begins with an idea for Write the Docs. It is highly recommended that a single WEP contain a single key proposal or idea. 
 
 If you have an idea for a WEP:
 
