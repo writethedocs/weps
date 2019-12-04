@@ -102,7 +102,11 @@ Pre-proposal
 
 The WEP process begins with a new idea for Write the Docs. It is highly recommended that a single WEP contain a single key proposal or new idea. 
 
-To help prepare the WEP draft, we encourage community members to discuss the idea publicly, for example in the Slack group, and gather initial community feedback before writing a full WEP. Public discussions on pre-proposals also help to make sure the idea is applicable to the entire community and not just to the author.
+If you have an idea for a WEP:
+
+ - Discuss the idea in a public forum such as the Write the Docs Slack.
+ - Gather initial community feedback to enhance your WEP. 
+ - Make sure your idea applies to the entire community and not just yourself.
 
 A WEP can be co-authored by more than one community member, but we recommend keeping the number of co-authors small and choosing a representative who will submit the PR to the WEPs repository on behalf of the co-authors.
 
