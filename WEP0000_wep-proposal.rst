@@ -122,7 +122,7 @@ The WEP draft must follow these guidelines:
 - Content format must follow the WEP style as described in the **WEP format and style** section. This includes language, grammar, structure, and markup. The PR might be blocked until proper formatting rules are applied.
 - The WEP content is complete. If you want to submit a Work in Progress (WIP) draft before it is ready for pre-review, you can mark the PR as ``WIP`` and the review team will wait until the draft is ready.
 - **Allow edits from maintainers** option is selected. This helps the reviewer merge your WEP draft if it is accepted.
-- The PR is tagged with a **draft** flag, to indicate that it is in a draft state and is ready for pre-review. 
+- The PR is tagged with a **draft** label in GitHub, to indicate that it is in a draft state and is ready for pre-review. 
 
 After the pull request for the WEP draft is submitted, a WEP team member reviews the pull request to make sure it adheres to the guidelines. If the WEP is clearly not ready, the reviewer might reject the pull request and ask the author to submit a new WEP after the problems have been fixed.
 
