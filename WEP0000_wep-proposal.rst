@@ -157,7 +157,7 @@ Accepted
   Action: The WEP team merges the PR and stores the WEP in the ``accepted`` directory.
 
 Rejected
-  Reason: Community feedback led to disagreements about the WEP that cannot be resolved, or the original goal of the WEP is no longer considered an improvement to the community. 
+  Reason: Community feedback led to disagreements that prevented the WEP from reaching consensus, or the original goal of the WEP is no longer considered an improvement to the community. 
   Action: The WEP team moves the WEP to the ``rejected`` directory and merges the PR with a description of the rejection decision.
 
 Withdrawn
