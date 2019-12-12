@@ -192,7 +192,8 @@ In most cases, you can start by copying the `WEP template <../wep-template.rst>`
 File name
 .........
 The file name must follow the naming convention ``WEP[####]_[descriptive-but-short-title]``. For example, this WEP file is named ``WEP0000_wep-proposal``. In another example, a WEP to propose a new Slack channel naming convention might be named ``WEP0001_slack-channel-renaming``.
-  
+
+Note that the full file name must contain lead-in digits to enable auto-sorting of files and URLs. The title of the WEP can use the short name.
 Metadata
 ........
 The WEP file must begin with a header list of metadata fields, using the standard `RST field list <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#field-lists>`_ format.
@@ -213,7 +214,7 @@ Structure
 Each WEP must contain the following sections:
 
 #. **Header.** Header with a list of metadata fields as described in this section.
-#. **Title.** Short descriptive title of the WEP. The title must follow the naming convention ``WEP[#] - [Descriptive title]``.
+#. **Title.** Short descriptive title of the WEP. The title must follow the naming convention ``WEP[#] - [Descriptive title]``. You can use the short numbering format in the title, such as **WEP0**.
 #. **Abstract.** Short description of the topic that the WEP addresses. Use only 1-2 paragraphs and focus on the summary of the topic.
 #. **Motivation.** Background information explaining why the existing processes or solutions need to change.
 #. **Proposal.** Full description of the proposed change. This section can be as short or as long as needed, including explanations or alternatives if applicable. Use sub-headings to divide the proposal section if it contains a large amount of text.
