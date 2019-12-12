@@ -9,7 +9,7 @@
 :Replaces: N/A
 :Superceded-By: N/A
 
-WEP0000 - Initial Launch of the WEP Process
+WEP0 - Initial Launch of the WEP Process
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Abstract
