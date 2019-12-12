@@ -108,7 +108,9 @@ If you have an idea for a WEP:
  - Gather initial community feedback to enhance your WEP. 
  - Make sure your idea applies to the entire community and not just yourself.
 
-A WEP can be co-authored by more than one community member, but we recommend keeping the number of co-authors small and choosing a representative who will submit the PR to the WEPs repository on behalf of the co-authors.
+A WEP can be co-authored by more than one community member, but we recommend keeping the number of co-authors small and choosing a representative who will submit the PR to the WEPs repository on behalf of the co-authors. 
+
+After the WEP is submitted, additional supporters of the WEP can add their votes in the community review round, but only the co-authors will implement feedback in order to simplify the editing process.
 
 Draft submission and pre-review
 ...............................
