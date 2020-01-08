@@ -10,7 +10,7 @@ This process wasn't transparent,
 inclusive,
 and also didn't leave written records that people could refer back to.
 
-We hope that WEP's will make it explicit how major changes are made inside the community.
+We hope that WEPs will make it explicit how major changes are made inside the community.
 New contributors can propose them with a well-defined process,
 but can also see WEP's proposed by existing contributors.
 WEP's are the first step towards having a more open and defined model for governance,
