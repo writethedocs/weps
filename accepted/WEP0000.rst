@@ -5,7 +5,7 @@
           - Sasha Romijn
           - Samuel Wright
           - Mikey Ariel
-:Status: Draft
+:Status: Accepted
 :Replaces: N/A
 :Superceded-By: N/A
 
