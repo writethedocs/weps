@@ -3,7 +3,8 @@ Write the Docs Enhancement Proposals (WEPs)
 
 Welcome to the WEP repo!
 
-WEPs are a formalized process for making major policy changes in the Write the Docs community.
+[WEPs](https://github.com/writethedocs/weps/blob/master/accepted/WEP0000.rst)
+are a formalized process for making major policy changes in the Write the Docs community.
 Previously the way decisions were made was consensus on a Slack channel or at a conference,
 based mostly on the people who happened to be there at the time.
 This process wasn't transparent,
@@ -18,5 +19,5 @@ but certainly not the last.
 All further governance changes are planned to go through the WEP process,
 so it is truly foundational for ongoing work on how the community is managed.
 
-Please see the WEP0 proposal to get started!
+The WEP process is documented in detail in [WEP0](https://github.com/writethedocs/weps/blob/master/accepted/WEP0000.rst).
 
