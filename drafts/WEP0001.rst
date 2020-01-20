@@ -117,7 +117,7 @@ grant review team may choose different tools.
 Reviewers can go through all applications one by one, and score them,
 possibly with a comment. Scores, applicant names, and comments from others
 should not be shown until the reviewer has provided a score. Scores can be
-updated, but this will be visible.
+updated, but these updates will be logged and visible.
 
 The scoring should be based on the overall impact that granting this person
 will have on them, the Write the Docs community, and the applicants wider
