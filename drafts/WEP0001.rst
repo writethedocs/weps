@@ -111,7 +111,7 @@ Selection process
 -----------------
 
 All applications will be scored by the grant review team, which should
-consist of around for reviewers. The suggested tool is Grorg, but the
+consist of around four reviewers. The suggested tool is Grorg, but the
 grant review team may choose different tools.
 
 Reviewers can go through all applications one by one, and score them,
