@@ -83,7 +83,7 @@ and contact details, the form should ask roughly these questions:
 * An estimate for their costs (provide tips for looking on booking, airbnb,
   google flights and possibly others), split out by cost item.
   Travel and accommodation are typical costs, but applicants may specify
-  and ask for any costs they need covered to be able to attend.
+  and ask for any costs they need covered to be able to attend, like childcare.
 * Which country they live in
 * Whether they are part of an underrepresented or marginalised group in tech
 
