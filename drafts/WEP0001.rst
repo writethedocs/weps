@@ -132,10 +132,10 @@ This is difficult to assess from a short form. Several guidelines are:
   bank I work for become richer” has less social impact than supporting someone
   who said “I work on projects to help addicted homeless people towards recovery”,
   and therefore the latter should be scored higher.
-* Where is this person from? If they would take a large budget, but live in an
-  area that has many other conferences closer by, they may not be a great choice.
-  So all other things being equal, we would rather spend € 1000 on an attendee
-  from Kenya than from Portland, Oregon, US.
+* Where is this person from? Especially if they would take a large budget, but 
+  travel to a different Write the Docs conference would be much closer and/or cheaper,
+  that should be the preferred option. For example, an applicant from Germany
+  should generally apply for Prague instead of Portland.
 * Are they making a basic effort? For example, if someone doesn't even have an
   estimate of the price of their flight without further explanation, they don't
   appear very motivated.
