@@ -192,7 +192,7 @@ Handling grants and funds
   Transfers of funds before booking confirmations are received are always
   at the discretion of the conference organisers.
 * If people are unable to make it to the conference for reasons reasonably 
-  utside of their influence, for e.g. health reasons or because they are
+  outside of their influence, for e.g. health reasons or because they are
   unable to pass immigration despite their visa, their grant will be honoured,
   but if some of their costs are still cancellable/refundable, they should 
   cancel those and refund the conference for those costs.
