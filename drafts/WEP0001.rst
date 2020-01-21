@@ -137,7 +137,7 @@ This is difficult to assess from a short form. Several guidelines are:
   So all other things being equal, we would rather spend € 1000 on an attendee
   from Kenia than from Portland, Oregon, US.
 * Are they making a basic effort? For example, if someone doesn't even have an
-  estimate of the price of their flight without further explanation, does not
+  estimate of the price of their flight without further explanation, they don't
   appear very motivated.
 * Does this conference seem like an event that would benefit them? And do
   they have some understanding of what the conference is about?
