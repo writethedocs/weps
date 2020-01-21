@@ -38,9 +38,9 @@ Some important considerations apply to grants:
 * People can be reluctant, or even feel shameful about applying, so the process
   for applications should be encouraging and welcoming, even for people who
   feel they might not deserve it.
-* Grants improve access for marginalised and underrepresented groups already,
-  but an option can be to prioritise marginalised groups in allocations.
-  Currently, this proposal is written with prioritisation of marginalised and
+* Grants improve access for marginalized and underrepresented groups already,
+  but an option can be to prioritise marginalized groups in allocations.
+  Currently, this proposal is written with prioritisation of marginalized and
   underrepresented groups.
 
 Speakers
@@ -61,7 +61,7 @@ will be asked whether (pick one option):
   a partial grant could mean "I need you to cover my flight, but I can arrange
   my own accommodation".)
 
-If their employer is funding their attendance, the employer will be recognised
+If their employer is funding their attendance, the employer will be recognized
 as a low level sponsor (perhaps a bit higher in case of very expensive travel).
 This may help people to get funding from their employer. This is reasonable,
 as the employer is paying for a speaker's ability to contribute. The CFP 
@@ -69,7 +69,7 @@ should make clear that we have this sponsor recognition policy, as it can help
 people talk to and convince their employers to fund the trip earlier.
 
 Grants for speakers follow the regular process for assignment and handling,
-except that they are prioritised over all other grant applications.
+except that they are prioritized over all other grant applications.
 
 Regular grant requests
 ----------------------
@@ -85,9 +85,9 @@ and contact details, the form should ask roughly these questions:
   Travel and accommodation are typical costs, but applicants may specify
   and ask for any costs they need covered to be able to attend, like childcare.
 * Which country they live in
-* Whether they are part of an underrepresented or marginalised group in tech
+* Whether they are part of an underrepresented or marginalized group in tech
 
-For the last question, we will clarify that underrepresented or marginalised 
+For the last question, we will clarify that underrepresented or marginalized 
 groups in tech include, but are not limited to:
 
 * women and other gender minorities of all expressions and identities;
@@ -143,7 +143,7 @@ This is difficult to assess from a short form. Several guidelines are:
   they have some understanding of what the conference is about?
 
 After all scores are completed, the grant review team will discuss the top
-applications, prioritised by underrepresented/marginalised groups first,
+applications, prioritized by underrepresented/marginalized groups first,
 score second, and grant them unless discussion leads to another conclusion,
 until funds run out. The review team is not required to always follow the
 score based order. This also depends on the remaining resources.
@@ -157,7 +157,7 @@ Notifying accepted applicants
 * All accepted applicants will be notified by the grant review team.
 * Applicants need to confirm they are still intending to participate.
 * If they withdraw their application, the grant review team may be able
-  provide a few extra applicants with grants, prioritised by score.
+  provide a few extra applicants with grants, prioritized by score.
 * Applicants that are very low on the list, and basically certain not to
   receive a grant, will be notified by the grant review team as soon as
   the selection is complete.
