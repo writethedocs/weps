@@ -135,7 +135,7 @@ This is difficult to assess from a short form. Several guidelines are:
 * Where is this person from? If they would take a large budget, but live in an
   area that has many other conferences closer by, they may not be a great choice.
   So all other things being equal, we would rather spend € 1000 on an attendee
-  from Kenia than from Portland, Oregon, US.
+  from Kenya than from Portland, Oregon, US.
 * Are they making a basic effort? For example, if someone doesn't even have an
   estimate of the price of their flight without further explanation, they don't
   appear very motivated.
