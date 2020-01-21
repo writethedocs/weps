@@ -85,7 +85,12 @@ and contact details, the form should ask roughly these questions:
   Travel and accommodation are typical costs, but applicants may specify
   and ask for any costs they need covered to be able to attend, like childcare.
 * Which country they live in
+* Any other comments/information
 * Whether they are part of an underrepresented or marginalized group in tech
+
+The form should mention that upon notification, accepted applicants will 
+have one week to confirm. If that is difficult, the applicant should clarify
+that in the form.
 
 For the last question, we will clarify that underrepresented or marginalized 
 groups in tech include, but are not limited to:
@@ -155,7 +160,9 @@ Notifying accepted applicants
 -----------------------------
 
 * All accepted applicants will be notified by the grant review team.
-* Applicants need to confirm they are still intending to participate.
+* Applicants need to confirm they are still intending to participate
+  within one week. This term can be extended if requested in the
+  application.
 * If they withdraw their application, the grant review team may be able
   provide a few extra applicants with grants, prioritized by score.
 * Applicants that are very low on the list, and basically certain not to
