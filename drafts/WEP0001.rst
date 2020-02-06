@@ -51,22 +51,9 @@ therefore have a special grant priority. All speakers and organisers will
 receive a free ticket, as they already pay for their participation in the
 conference with their volunteer time.
 
-Either at the time of the CFP (in which case it should be stressed on this
-form that choices will not influence talk selection) or later, all speakers
-will be asked whether (pick one option):
-
-* They are willing and able to pay their own costs completely.
-* Their employer is funding their travel and accommodation.
-* They would like to request a (partial) grant (if so, we need their details -
-  a partial grant could mean "I need you to cover my flight, but I can arrange
-  my own accommodation".)
-
-If their employer is funding their attendance, the employer will be recognized
-as a low level sponsor (perhaps a bit higher in case of very expensive travel).
-This may help people to get funding from their employer. This is reasonable,
-as the employer is paying for a speaker's ability to contribute. The CFP 
-should make clear that we have this sponsor recognition policy, as it can help 
-people talk to and convince their employers to fund the trip earlier.
+If speakers would like to request a (partial) grant for further costs,
+they fill in the normal grant application form. The speaker acceptance
+email will include a mention of the grant program and form.
 
 Grants for speakers follow the regular process for assignment and handling,
 except that they are prioritized over all other grant applications.
