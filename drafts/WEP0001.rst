@@ -185,8 +185,8 @@ Handling grants and funds
     community member vouching for the applicant.
   Transfers of funds before booking confirmations are received are always
   at the discretion of the conference organisers.
-  An alternative option is for conference organisers to pay for or book
-  expenses themselves.
+* An alternative option is for conference organisers to pay for or book
+  expenses directly. This should be an exception, not the rule.
 * If people are unable to make it to the conference for reasons reasonably 
   outside of their influence, for e.g. health reasons or because they are
   unable to pass immigration despite their visa, their grant will be honoured,
