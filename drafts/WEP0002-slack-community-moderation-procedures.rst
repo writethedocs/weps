@@ -46,7 +46,7 @@ When a user posts obvious spam or posts with objectionable content, any one mode
 
 When a moderator removes a post, they may also decide to remove other users' responses. Sometimes this decision is appropriate given the context, and sometimes the discussion that follows (often involving community self-moderation) is worth keeping so members' responses can be visible.
 
-There's a certain amount of personal discretion that goes into removing posts, but when in doubt, the moderation team should generally refrain from removing posts. A lack of discretion in removing posts can negatively impact the community's trust in the moderation team.
+There's a certain amount of personal discretion that goes into removing posts. **When in doubt, the moderation team should generally refrain from removing posts.** A lack of discretion in removing posts can negatively impact the community's trust in the moderation team.
 
 Sales-y content
 ---------------
