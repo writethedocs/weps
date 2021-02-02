@@ -42,7 +42,7 @@ Post removal
 When a user posts obvious spam or posts with objectionable content, any one moderator is free to remove the material upon seeing it. Before removing the message, they should:
 
 1. Share the message with the #slack-mods channel to notify the rest of the moderators of what happened, and to keep a record of the deleted message.
-2. Share the message with the poster to reference why the material was removed, and offer more information (including a link to the Code of Conduct) if necessary.
+2. Send a note to the poster referencing why the material was removed, and offer more information (including a link to the Code of Conduct) if necessary.
 
 When a moderator removes a post, they may also decide to remove other users' responses. Sometimes this decision is appropriate given the context, and sometimes the discussion that follows (often involving community self-moderation) is worth keeping so members' responses can be visible.
 
