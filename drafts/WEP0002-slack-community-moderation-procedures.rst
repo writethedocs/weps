@@ -121,7 +121,7 @@ If a user continues to violate the Code of Conduct, a moderator can give them a 
 
   I wanted to check in with you again regarding your posts in #general. As discussed before, I want to make it clear that all members of this community are required to follow the Code of Conduct rules at all times, with no exceptions.
 
-  If this continues to be a problem, the moderation team will have no choice but to consider further action up to and including removing you from the Write the Docs community the next time you violate the rules of this community. Because this is always a last resort that the moderation team wants to prevent wherever possible, I wanted to give you a fair warning first and the opportunity for you to ask me questions if you need to. Thanks!
+  This is a formal warning from the moderation team. If this continues to be a problem, the moderation team will have no choice but to consider further action up to and including removing you from the Write the Docs community the next time you violate the rules of this community. Because this is always a last resort that the moderation team wants to prevent wherever possible, I wanted to give you a fair warning first and the opportunity for you to ask me questions if you need to. Thanks!
 
 3. Removal from the community
 _____________________________
