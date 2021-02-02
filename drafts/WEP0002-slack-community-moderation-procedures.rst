@@ -69,7 +69,7 @@ With these better defined post guidelines in place, members of the Slack communi
 
 Code of conduct violations
 --------------------------
-Historically, the moderation team has struggled to consistently handle code of conduct violations. Some of the problems we faced included:
+Historically, the moderation team has struggled to consistently handle Code of Conduct violations. Some of the problems we faced included:
 
 * Users who would repeatedly annoy or antagonize others, but whose actions were never egregious enough to warrant immediate action.
 * A lack of tracking that could assist moderators in identifying whether a user's actions formed a pattern of negative behaviour (we mostly relied on memory instead).
