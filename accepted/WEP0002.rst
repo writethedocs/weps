@@ -2,7 +2,7 @@
 :Created: 2021-01-31
 :Last-Modified: 2021-01-31
 :Author: Janine Chan
-:Status: Draft
+:Status: Accepted
 
 WEP2 - Slack community moderation procedures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
