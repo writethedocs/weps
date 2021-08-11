@@ -1,0 +1,146 @@
+:WEP-Number: 0002
+:Created: 2021-01-31
+:Last-Modified: 2021-01-31
+:Author: Janine Chan
+:Status: Draft
+
+WEP2 - Slack community moderation procedures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Abstract
+========
+This WEP proposes new moderation procedures for the Write the Docs Slack community. It attempts to formalize existing but unspoken guidelines (be kind, be transparent) and add new, more structured, guidelines for the moderation team to follow.
+
+Motivation
+==========
+As a community grows, one of the most beautiful yet challenging results is the breadth and diversity of the people who comprise it. While a large community results in a great diversity of thought that benefits every member, it can also sometimes result in users being unaware of what the community is for, interpersonal conflict, or violations of the Code of Conduct.
+
+The procedures in this WEP endeavour to address the latter without negatively impacting the former: as moderators, our job is to encourage psychological safety within the community by both creating a welcoming environment, and taking action when necessary to ensure members of the community continue to act respectfully towards one another. Historically, the team has done well at this, but has sometimes struggled, having had to make almost all decisions on a case-by-case basis.
+
+Proposal
+========
+
+Transparency and collaboration
+------------------------------
+With all of the below actions, it's important to always keep transparency in mind. When a member of the moderation team enacts any of the below actions, it's important to explain to the user what the user did that led us to feel that we needed to take action, explain our expectations regarding their behaviour, and offer to help them clarify anything they may not understand. All of this should be done with the aim to educate, not punish, and with the assumption that a user is acting in good faith unless proven otherwise.
+
+It's also important that members of the moderation team remain transparent with each other. We are already good at communicating with each other when we take moderation actions, and consulting each other if we're unsure, and this should continue. After all, we're a moderation "team," and we make all of our lives easier when we operate openly and collaboratively.
+
+Individuals vs. moderators
+--------------------------
+Moderators have dual roles in the community as both individuals and as moderators who work to uphold community standards. The line between those two categories isn't always easy to draw. Some guidelines in this area include:
+
+* **Feel free to express personal opinions civilly** - being a moderator doesn't mean you aren't a valued member of the community with valuable experience to share. That said, you are always expected to set a good example. Disagreements are fine, but express them respectfully. If you feel that can't do that, then remove yourself from the conversation. If needed, you can tag in another moderator to take over for you if one is available.
+* **Identify yourself as a moderator** - when you're acting as a moderator (e.g., in a reminder about the Code of Conduct), make it clear that you're a moderator. Also, all moderators should add a symbol (the shield emoji has been suggested before) to their profile, with the caveat that non-moderators can easily copy this, but trusting that they probably won't.
+* **Wade into contentious conversations carefully, and prioritize de-escalation over expressing personal opinions** - by the time a conversation becomes heated, if a moderator is available, they should try to de-escalate the situation, including asking users to drop the conversation. This can be really hard, especially if the conversations revolve around sensitive topics. Take a deep breath, do what you can, and don't be afraid to disengage.
+* **Take care of yourself and your mental health** - this community contains a lot of great people who are great at self-moderating, and while you are partly responsible for keeping things running smoothly, your wellbeing should always take priority. If you need to take a break, please do. You're human, you have work and other life responsibilities to worry about, and you can't take on everything yourself. You can always ask in the private moderation channel for someone else to take over a particular situation.
+
+At the end of the day, we're all human and we all make mistakes that we then learn from. The goal here isn't perfect behaviour, but to ensure that we set an example for the rest of the community in terms of treating each other well, and being able to disagree with each other respectfully.
+
+Post removal
+------------
+When a user posts obvious spam or posts with objectionable content, any one moderator is free to remove the material upon seeing it. Before removing the message, they should:
+
+1. Share the message with the private moderation channel to notify the rest of the moderators of what happened, and to keep a record of the deleted message.
+2. Send a note to the poster referencing why the material was removed, and offer more information (including a link to the Code of Conduct) if necessary.
+
+When a moderator removes a post, they may also decide to remove other users' responses. Sometimes this decision is appropriate given the context, and sometimes the discussion that follows (often involving community self-moderation) is worth keeping so members' responses can be visible.
+
+There's a certain amount of personal discretion that goes into removing posts. **When in doubt, the moderation team should generally refrain from removing posts.** A lack of discretion in removing posts can negatively impact the community's trust in the moderation team.
+
+Sales-y content
+---------------
+Historically, the moderation team has struggled with the definition of "sales-y content" listed on the Slack guidelines. We currently define sales-y content as follows:
+
+* Direct pitches
+* Links without context
+* Brands
+
+Some further proposed definitions for the purpose of moderating are as follows:
+
+* **Unpublished market research** - being a helpful bunch, the Write the Docs community is never hesitant to weigh in on their experiences. However, market research that the community contributes to should also benefit the community. Surveys, solicitations for interview subjects, and other research may be conducted via the Write the Docs Slack if it is accompanied by a commitment that the results of that research will contribute to the broader documentarian community. For example, a survey conducted with a pledge to make the results freely available or to use the data in a scholarly paper would satisfy this requirement. (Academic surveys for a user's studies don't have to be held to the same standards, because of the lack of commercial interest.) The moderation team reserves the right to decline or remove a survey if we don't think that it'll benefit the community sufficiently.
+* **Recruiter spam** - while it's not inherently bad for recruiters to find candidates within the Slack community, we want to make sure they don't detract from it in doing so. Spamming the community with job postings (and thereby distracting from posts from users who are affiliated with the postings) and pushy DMs give the impression that they're trying to mine the community for financial reasons, and that's not what we want. Because moderators can't monitor DMs, we depend on users to speak up when they happen in order to take action, and should communicate clearly that they can and should.
+* **Marketing posts in #intros** - the purpose of the #intros channel is to get to know new members of the community. It's often a difficult line to draw between a person and their work, but a general rule of thumb is that users shouldn't be looking for sales prospects in that channel. Posts including things like personal websites and social media links with invitations to connect are okay; however, writing on behalf of a business looking for potential clients would fall under sales-y content and thus would be subject to removal. At that point, a moderator can send the user a message explaining the removal, along with a warm invitation to post again without the sales angle. Example wording:
+
+  Hi Mildred,
+  
+  I'm Janine, one of the moderators here in the Write the Docs Slack community. I wanted to let you know that the #intros channel is just for posting about yourself as an individual, so we don't allow anything sales-y in there. I've removed your post for now, but we'd love to see you post there with a message about yourself! Thanks for your understanding, and please don't hesitate to message me back if you have any questions.
+
+* **Job-seeking advertisements** - at the time of writing, we are in the thick of the COVID-19 pandemic, which has made it a particularly difficult time to look for work. While we definitely wouldn't want to discourage users from using the Slack community to find work, we also want to make sure they're doing so in the proper channels - #work-wanted and #career-advice are a good place to start, rather than the posts that sometimes pop up in channels like #general.
+* **Open-source is okay** - if an ad is for an open-source project that isn't tied to a specific company, then let it be. We want to see projects that people have worked on and that others can benefit from, but we still want to make sure that the end result isn't ultimately commercial interest.
+
+With some of these rules, we've been more lenient towards long-time contributors to the community with whom we've built trust over time. In those cases, we can trust that the community will recognize them and know they're not looking for business prospects. If you're unsure, searching through the user's past posts or checking out their profile can offer clues about other ways in which they've engaged with the community and whether they're affiliated with a product. Some detective work can be useful in identifying whether a complimentary post is sales-y or an honest endorsement.
+
+Code of conduct violations
+--------------------------
+Historically, the moderation team has struggled to consistently handle Code of Conduct violations. Some of the problems we faced included:
+
+* Users who would repeatedly annoy or antagonize others, but whose actions were never egregious enough to warrant immediate action.
+* A lack of tracking that could assist moderators in identifying whether a user's actions formed a pattern of negative behaviour (we mostly relied on memory instead).
+
+The "three strikes" model of escalating moderator actions attempts to identify both of these issues:
+
+* With three different levels of action, moderators have a framework of addressing even minor actions that may not constitute major violations of the Code of Conduct rules, but that may bother or alienate others over time.
+* A tracking spreadsheet allows moderators to look back on previous actions they've taken, even in the event of moderator turnover, and more easily identify when users are failing to respond to moderator intervention.
+
+When a user violates the Code of Conduct, moderators can engage in a series of escalating actions. Depending on the situation, these actions may not all be required: ideally, a user will not require further escalation beyond the first strike, and if the behaviour is particularly egregious, the moderation team may decide to jump forward to a more extreme action. Similarly, moderators can decide to use the same action twice rather than escalating if, for example, a user shows that they're making a good faith effort to follow the Code of Conduct. These steps are intended as tools for moderation and education, and have lots of room for nuance; they're not a one-way funnel intended to push users out of the community.
+
+Regardless of which action is taken, every time a moderator needs to take action, they should let the other moderators know and track it in the tracking spreadsheet. For privacy reasons, this spreadsheet should only be accessible to the moderation group (currently, the link to the spreadsheet is pinned in the private moderation channel, but we may want to change viewing/editing permissions to only people who are invited, rather than anyone who has the link). The spreadsheet can help the moderation team ensure that we're consistent in the types of conduct we respond to and our responses to it. We could consider an expiration date of, say, a year, at which point actions "expire" and won't be taken into account anymore - making an assumption that people learn over time, and won't have mistakes count against them forever.
+
+Depending on how visible the user's conduct was to the greater community, it may make sense to communicate moderation actions to the greater community (in the #meta channel, or just in the channel the conversation(s) occurred in), both for transparency and to reassure community members that the moderation team is willing to act if they need us to.
+
+1. Verbal reminder
+__________________
+The first time a member of the moderation team contacts a user, or for contact over minor actions, it can be an in-channel reply or DM; at this point, we can assume that the user may not be cognisant of the expectations in the community.
+
+While we generally want to make sure the user gets their privacy, the reason this can also be an in-channel reply is that it lowers the barrier for light moderator action - that is, it makes it easier for a moderator to say anything at all rather than second-guessing whether the violation is extreme enough to warrant a formal warning over DM and missing an opportunity to intervene. At this point, the moderator should identify themselves as such, and give the user a reminder that their behaviour isn't up to community standards. Example wording:
+
+  Hi Mildred,
+
+  I'm Janine, one of the moderators here in the Write the Docs Slack community. In light of your comments above, I wanted to remind you to please keep the Code of Conduct in mind - be civil and treat others with respect. Please let me know if you have any questions. Thanks!
+
+A moderator might opt for a less formal reply, to further lower the barrier for action:
+
+  Hey Mildred, this is a friendly mod reminder to please respect others, even when you don't agree with them. If you have any questions, please feel free to DM me. Thanks!
+
+Conversely, depending on the context, a moderator might decide that their message needs a more direct tone:
+
+  Mildred, I'm one of the mods here, and that tone isn't acceptable. I'm asking you to please play nice, or take a break from this conversation.
+
+An example of a more formal warning in DM format:
+
+  Hi Mildred,
+
+  I'm Janine, one of the moderators here in the Write the Docs Slack community. I wanted to let you know that your conversation in #general earlier today violated our Code of Conduct rules, specifically the one that asks all users to remain respectful of each other at all times.
+
+  While I'm sure you were operating in good faith, we want to ensure that all users in this Slack community feel comfortable engaging with each other, and this means making sure that we all act civilly. To this end, I wanted to give you a reminder that we need you to follow those rules at all times.
+
+  If you have any questions, please don't hesitate to reach out and ask - the moderators are here to help. Thanks!
+
+2. Formal warning
+________________
+If a user continues to violate the Code of Conduct, a moderator can give them a more stern warning about their conduct. Example wording:
+
+  Hi Mildred,
+
+  I wanted to check in with you again regarding your posts in #general. As discussed before, I want to make it clear that all members of this community are required to follow the Code of Conduct rules at all times, with no exceptions.
+
+  This is a formal warning from the moderation team. If this continues to be a problem, the moderation team will have no choice but to consider further action up to and including removing you from the Write the Docs community the next time you violate the rules of this community. Because this is always a last resort that the moderation team wants to prevent wherever possible, I wanted to give you a fair warning first and the opportunity for you to ask me questions if you need to. Thanks!
+
+3. Removal from the community
+_____________________________
+As a last resort, if a user has proven to be unable or unwilling to follow the Code of Conduct, it's in the best interest of the community for moderators to remove the user. This decision should never be taken lightly, and whenever possible, it should always be made in collaboration with other moderators. (If a user is being particularly aggressive, it might be in the community's best interest for a moderator to take action more immediately, but this should always be communicated to the rest of the moderators as soon as possible.)
+
+This message should be sent to the email address attached to the user's account. Example wording:
+
+  Hi Mildred,
+
+  Following our previous conversations, the moderation team has decided that in order to preserve a sense of civility in the Write the Docs community, it's best to remove you from the community. We want to assure you that we didn't make this decision lightly. Thank you for your understanding, and we wish you all the best in the future.
+
+Conclusion
+----------
+The vast majority of the time, the Write the Docs Slack community benefits from being professionally focused and requires very little moderation. When the need to intervene arises, these guidelines will hopefully help moderators do so both confidently and kindly, with less hesitation about when action is appropriate, to preserve a positive and welcoming space for all users.
+
+Copyright
+=========
+This document is published under the `Creative Commons CC-BY 4.0 Attribution <https://creativecommons.org/licenses/by/4.0/>`_ license.
