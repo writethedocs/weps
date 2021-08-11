@@ -2,7 +2,7 @@
 :Created: 2020-01-13
 :Last-Modified: 2020-01-13
 :Author: Sasha Romijn
-:Status: Draft 
+:Status: Accepted 
 
 WEP1 - Opportunity Grant policy for Write the Docs conferences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
