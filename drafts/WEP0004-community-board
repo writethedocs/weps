@@ -31,7 +31,9 @@ To see the proposed changes, see this PR: https://github.com/writethedocs/www/pu
 Motivation
 ==========
 
-After we implemented the original `team restructure WEP <https://github.com/writethedocs/weps/blob/main/accepted/WEP0003-wtd-org-structure-governance.rst>`_, we realized that the breakdown of teams was too granular compared to the actual workload distribution in the organization.
+After we implemented the original team restructure WEP, we realized that the breakdown of teams was too granular compared to the actual workload distribution in the organization. 
+
+Link to the original team restructure WEP0003: https://github.com/writethedocs/weps/blob/main/accepted/WEP0003-wtd-org-structure-governance.rst
 
 We also recognized a gap in the community council, since the CoreOps team was entrenched in conference-driven work and we didn't have the capacity to launch the board meetings.
 
