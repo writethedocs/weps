@@ -35,7 +35,7 @@ After we implemented the original team restructure WEP, we realized that the bre
 
 Link to the original team restructure WEP0003: https://github.com/writethedocs/weps/blob/main/accepted/WEP0003-wtd-org-structure-governance.rst
 
-We also recognized a gap in the community council, since the CoreOps team was entrenched in conference-driven work and we didn't have the capacity to launch the board meetings.
+We also recognized a gap in the community council, since the CoreOps team was entrenched in conference-driven work and didn't have the capacity to manage the community backlog and initiatives or launch the board meetings that we wanted to start holding.
 
 In September 2022, Mikey Ariel decided to step down from her role as the Prague conference chair, and proposed to step in to the community board as the chair and coordinator for the meetings and Trello board. 
 
