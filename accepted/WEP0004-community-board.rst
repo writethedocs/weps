@@ -1,9 +1,9 @@
 :WEP-Number: 0004
 :Created: 2022-10-05
-:Last-Modified: [YYYY-MM-DD]
+:Last-Modified: 2022-12-24
 :Author:  - Mikey Ariel
           - Endorsed by CoreOps team
-:Status: Draft 
+:Status: Accepted
 :Replaces: WEP0003-wtd-org-structure-governance
 
 WEP0004 - Updated team structure and community board
