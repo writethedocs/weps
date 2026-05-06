@@ -21,6 +21,6 @@ so it is truly foundational for ongoing work on how the community is managed.
 The WEP process is documented in detail in WEP0_.
 There is also more information in our blog post `introducing WEPs`_.
 
-.. _WEPs: https://github.com/writethedocs/weps/blob/master/accepted/WEP0000.rst
-.. _WEP0: https://github.com/writethedocs/weps/blob/master/accepted/WEP0000.rst
+.. _WEPs: https://github.com/writethedocs/weps/blob/main/accepted/WEP0000.rst
+.. _WEP0: https://github.com/writethedocs/weps/blob/main/accepted/WEP0000.rst
 .. _introducing WEPs: https://www.writethedocs.org/blog/introducing-weps/
