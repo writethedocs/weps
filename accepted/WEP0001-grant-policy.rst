@@ -178,7 +178,7 @@ Handling grants and funds
   This should be an exceptional case though, as not everyone can afford to
   miss these funds so long.
 * In very exceptional circumstances, transfers may be made before booking
-  confirmations are received. This applies to people that simply can not
+  confirmations are received. This applies to people that simply cannot
   get the funds together to pay themselves in advance. This requires at least:
   - Complete details of what expense needs to be made and what for
   - Being a known member in the community, or a known and well trusted

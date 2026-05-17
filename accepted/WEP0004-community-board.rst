@@ -37,7 +37,7 @@ The complete new team structure is documented in a different PR: https://github.
 However, for the purpose of this WEP here is a summary of the changes:
 
 - Some teams were merged into the CoreOps team, since the work is performed by the CoreOps members (such as Support, Infrastructure, Code of Conduct). 
-- The Documentation Guide team was renamde to "Learning Resources" to help support future website content refactoring. 
+- The Documentation Guide team was renamed to "Learning Resources" to help support future website content refactoring. 
 - Two new teams were created (Marketing, Sales) with the goal of expanding those operations in the future. 
 - The community council was renamed "community board" for accuracy, and now has explicit responsibility for strategic decision-making.
 - All team leaders are now board members and the roles explicitly include a paid stipend. 

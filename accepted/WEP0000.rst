@@ -79,7 +79,7 @@ Core Operations team
   There are several references in this WEP to the **core operations (CoreOps) team**. This team is currently known as the **core team** and the team description can be found on the `Core team page <https://www.writethedocs.org/team/#core-team>`_. The updated name is intended to reflect the purpose of the team more accurately in the context of its duties for the community. 
 
 WEP team
-  The **WEP team** is a new team that reviews WEP proposals for clarity and completeness. For the purpose of this WEP the team is initially composed of the Core Operations team, but in the the future will be open for other community members to join. 
+  The **WEP team** is a new team that reviews WEP proposals for clarity and completeness. For the purpose of this WEP the team is initially composed of the Core Operations team, but in the future will be open for other community members to join. 
   
 Note that the process to join and leave teams is out of scope of this WEP and will be handled in a future WEP.
 
@@ -141,7 +141,7 @@ If the review period ends without a clear consensus, but further discussion is s
 
 During the community review period, the WEP goes through one or more iterations of feedback and updates. Community feedback is submitted in the form of comments to the PR, and the WEP author is responsible to update the WEP content in case the incoming feedback is accepted.
 
-All discussion on the WEP must happen on the PR in the form of comments in order to be considered as official feedback on the WEP. Of course external conversations can happen on other platforms, but the official record for a WEP discussion is only on the PR itself. If discussion happens on another platform, we recommend copying the most important points or the results of those discussions into the WEP comments.
+All discussion on the WEP must happen on the PR in the form of comments in order to be considered as official feedback on the WEP. Of course, external conversations can happen on other platforms, but the official record for a WEP discussion is only on the PR itself. If discussion happens on another platform, we recommend copying the most important points or the results of those discussions into the WEP comments.
 
 You must have a GitHub account to post comments to a PR. If you need help getting started with GitHub, email support@writethedocs.org and the WTD team will help you set up your account and get familiar with GitHub basics. 
 
